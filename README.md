@@ -1,6 +1,6 @@
-# StudySprint — reference solution (TA only)
+# StudySprint
 
-Reference build for the 10/10/2026 Hands-on: React Build Lab. See [../TA_Guide.md](../TA_Guide.md).
+Hands-on: React Build Lab.
 
 ```bash
 npm install
